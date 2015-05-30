@@ -1,0 +1,6 @@
+*~
+.DS_Store
+.nrepl-port
+target
+resources
+figwheel_server.log
